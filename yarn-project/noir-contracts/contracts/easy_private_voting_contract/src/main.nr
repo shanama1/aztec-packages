@@ -1,3 +1,6 @@
+//move section imports above 
+
+
 contract EasyPrivateVoting {
     // docs:start:imports
     use dep::aztec::{
