@@ -3,6 +3,10 @@ mod interest_math;
 mod helpers;
 mod interfaces;
 
+
+//change the accumlator
+//change the debt
+//change the lending fee
 // Single asset CDP contract.
 // Shoving re-entries up the ass.
 // TODO's:
