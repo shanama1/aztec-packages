@@ -1,3 +1,5 @@
+//edit to make mods to contract, headers, content etc
+
 // docs:start:easy_private_token_contract
 contract EasyPrivateToken {
     use dep::aztec::protocol_types::address::AztecAddress;
